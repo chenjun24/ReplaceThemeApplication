@@ -1,0 +1,3 @@
+include ':skinapplication'
+include ':app'
+rootProject.name = "ReplaceThemeApplication"
